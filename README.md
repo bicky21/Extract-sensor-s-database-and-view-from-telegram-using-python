@@ -8,5 +8,5 @@ from https://github.com/Inventrom/boltiot-arduino-helper
 or
 https://github.com/Inventrom/boltiot-arduino-helper/tree/master/src
 
-This project is licensed under
+My project is under
 [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/bicky21/Extract-sensor-s-database-and-view-from-telegram-using-python/blob/master/LICENSE)
