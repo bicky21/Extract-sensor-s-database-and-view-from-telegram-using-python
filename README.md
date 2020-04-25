@@ -7,4 +7,4 @@ You can find boltiothelper folder where we can find boltcredential header file a
 from https://github.com/Inventrom/boltiot-arduino-helper
 or
 https://github.com/Inventrom/boltiot-arduino-helper/tree/master/src (external link)
-[![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/bicky21/Extract-sensor-s-database-and-view-from-telegram-using-python/LICENSE)
+[![license](https://github.com/bicky21/Extract-sensor-s-database-and-view-from-telegram-using-python/LICENSE)
